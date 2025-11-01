@@ -1,0 +1,7 @@
+site_name: pocketblue
+site_url: https://gmankab.github.io/pocketblue-wiki
+theme:
+  name: material
+  palette:
+    scheme:
+      slate
